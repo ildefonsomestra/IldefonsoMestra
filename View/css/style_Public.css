@@ -533,6 +533,87 @@
     object-fit: cover; /* Asegura que el video ocupe todo el espacio sin deformarse */
 }
 
+.general-20 {
+    width: 50%;
+    height: 630px; /* Ajusta el alto según necesites */
+    overflow: hidden;
+}
+
+.general-20 video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Asegura que el video ocupe todo el espacio sin deformarse */
+}
+
+.general-21{
+ 
+    background-image:  url(../images/pictures/public/newpro/CASABE/1.jpg); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
+.general-22{
+ 
+    background-image:  url(../images/pictures/public/newpro/CASABE/2.jpg); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
+.general-23{
+ 
+    background-image:  url(../images/pictures/public/newpro/CASABE/3.jpg); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
+.general-24{
+ 
+    background-image:  url(../images/pictures/public/newpro/CASABE/4.jpg); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
+.general-25{
+ 
+    background-image:  url(../images/pictures/public/newpro/TOTUMO/1.JPG); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
+.general-26{
+ 
+    background-image:  url(../images/pictures/public/newpro/TOTUMO/2.JPG); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
+.general-27{
+ 
+    background-image:  url(../images/pictures/public/newpro/TOTUMO/3.JPG); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
  
  h2{
  

@@ -643,6 +643,56 @@
 
 }
 
+.general-20v{
+ 
+    background-image:  url(../images/pictures/events/ALFOMBRA/antorcha.jpg); /* La url no se puede usar fuera de una accion */
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 50%;
+ 
+ }
+ 
+ .general-21v{
+ 
+     background-image:  url(../images/pictures/events/ALFOMBRA/premio.jpg); /* La url no se puede usar fuera de una accion */
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 50%;
+ 
+ }
+
+ .general-22v{
+ 
+    background-image:  url(../images/pictures/events/NOCHE/diplo.jpg); /* La url no se puede usar fuera de una accion */
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 50%;
+ 
+ }
+ 
+ .general-23v{
+ 
+     background-image:  url(../images/pictures/events/NOCHE/premio.jpg); /* La url no se puede usar fuera de una accion */
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 50%;
+ 
+ }
+
+ .general-24v{
+ 
+    background-image:  url(../images/pictures/events/NOCHE/diplohd.jpg); /* La url no se puede usar fuera de una accion */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+
+}
+
 #tweny{
     height: 100%; /* Ajusta según tus necesidades */
     min-height: 550px; /* Mantiene un mínimo de 750px de alto */
