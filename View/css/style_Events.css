@@ -714,7 +714,7 @@
     background-size: 50% 100%; /* 50% ancho y 100% alto para cada imagen */
     width: 50%; 
     height: 100%; /* Ajusta según tus necesidades */
-    min-height: 665px; /* Mantiene un mínimo de 750px de alto */
+    min-height: 550px; /* Mantiene un mínimo de 750px de alto */
 
 }
 
